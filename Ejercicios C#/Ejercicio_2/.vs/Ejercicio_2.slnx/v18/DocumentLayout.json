@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\valen\\OneDrive\\Desktop\\UPN_FUNDAMENTO\\upn_fundamento\\Ejercicio_2\\",
+  "WorkspaceRootPath": "C:\\Users\\valen\\OneDrive\\Desktop\\UPN_FUNDAMENTO\\upn_fundamento\\Ejercicios C#\\Ejercicio_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{828666A4-D117-4B1B-912B-D303E271FA56}|Ejercicio_2\\Ejercicio_2.csproj|c:\\users\\valen\\onedrive\\desktop\\upn_fundamento\\upn_fundamento\\ejercicio_2\\ejercicio_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{828666A4-D117-4B1B-912B-D303E271FA56}|Ejercicio_2\\Ejercicio_2.csproj|solutionrelative:ejercicio_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99FCFD93-236E-5337-CF39-A2A678D40654}|Ejercicio_2\\Ejercicio_2.csproj|c:\\users\\valen\\onedrive\\desktop\\upn_fundamento\\upn_fundamento\\ejercicios c#\\ejercicio_2\\ejercicio_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FCFD93-236E-5337-CF39-A2A678D40654}|Ejercicio_2\\Ejercicio_2.csproj|solutionrelative:ejercicio_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\UPN_FUNDAMENTO\\upn_fundamento\\Ejercicio_2\\Ejercicio_2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\UPN_FUNDAMENTO\\upn_fundamento\\Ejercicios C#\\Ejercicio_2\\Ejercicio_2\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio_2\\Program.cs",
-              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\UPN_FUNDAMENTO\\upn_fundamento\\Ejercicio_2\\Ejercicio_2\\Program.cs",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\UPN_FUNDAMENTO\\upn_fundamento\\Ejercicios C#\\Ejercicio_2\\Ejercicio_2\\Program.cs",
               "RelativeToolTip": "Ejercicio_2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-18T02:27:49.845Z",
               "EditorCaption": ""

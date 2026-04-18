@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\upn-fundamento\\upn_fundamentos\\Semana4\\Ejercicio_3\\",
+  "WorkspaceRootPath": "C:\\Users\\valen\\OneDrive\\Desktop\\UPN_FUNDAMENTO\\upn_fundamento\\Ejercicios C#\\Ejercicio_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B3CE797-E07F-4BE6-B08A-13C4586CB202}|Ejercicio_3\\Ejercicio_3.csproj|c:\\users\\upn\\desktop\\upn-fundamento\\upn_fundamentos\\semana4\\ejercicio_3\\ejercicio_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B3CE797-E07F-4BE6-B08A-13C4586CB202}|Ejercicio_3\\Ejercicio_3.csproj|c:\\users\\valen\\onedrive\\desktop\\upn_fundamento\\upn_fundamento\\ejercicios c#\\ejercicio_3\\ejercicio_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B3CE797-E07F-4BE6-B08A-13C4586CB202}|Ejercicio_3\\Ejercicio_3.csproj|solutionrelative:ejercicio_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\upn-fundamento\\upn_fundamentos\\Semana4\\Ejercicio_3\\Ejercicio_3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\UPN_FUNDAMENTO\\upn_fundamento\\Ejercicios C#\\Ejercicio_3\\Ejercicio_3\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio_3\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\upn-fundamento\\upn_fundamentos\\Semana4\\Ejercicio_3\\Ejercicio_3\\Program.cs",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\UPN_FUNDAMENTO\\upn_fundamento\\Ejercicios C#\\Ejercicio_3\\Ejercicio_3\\Program.cs",
               "RelativeToolTip": "Ejercicio_3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T23:54:41.846Z",
               "EditorCaption": ""
