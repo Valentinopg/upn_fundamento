@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\valen\\OneDrive\\Desktop\\UPN_FUNDAMENTO\\upn_fundamento\\Ejercicios C#\\Ejercicio_1\\Ejercicio_1\\Ejercicio_1.csproj",
-      "projectName": "Ejercicio_1",
-      "projectPath": "C:\\Users\\valen\\OneDrive\\Desktop\\UPN_FUNDAMENTO\\upn_fundamento\\Ejercicios C#\\Ejercicio_1\\Ejercicio_1\\Ejercicio_1.csproj",
+      "projectUniqueName": "C:\\Users\\valen\\OneDrive\\Desktop\\UPN_FUNDAMENTO\\upn_fundamento\\Ejercicio_2\\Ejercicio_2\\Ejercicio_2.csproj",
+      "projectName": "Ejercicio_2",
+      "projectPath": "C:\\Users\\valen\\OneDrive\\Desktop\\UPN_FUNDAMENTO\\upn_fundamento\\Ejercicio_2\\Ejercicio_2\\Ejercicio_2.csproj",
       "packagesPath": "C:\\Users\\valen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\valen\\OneDrive\\Desktop\\UPN_FUNDAMENTO\\upn_fundamento\\Ejercicios C#\\Ejercicio_1\\Ejercicio_1\\obj\\",
+      "outputPath": "C:\\Users\\valen\\OneDrive\\Desktop\\UPN_FUNDAMENTO\\upn_fundamento\\Ejercicio_2\\Ejercicio_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\valen\\AppData\\Roaming\\NuGet\\NuGet.Config",

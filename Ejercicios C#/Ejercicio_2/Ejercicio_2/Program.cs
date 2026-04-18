@@ -1,47 +1,31 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿Console.WriteLine("=== Menú de operaciones ===");
+Console.WriteLine("1. Calcular área de un círculo");
+Console.WriteLine("2. Calcular área de un cuadrado");
+Console.WriteLine("3. Calcular área de un triáunglo");
+Console.WriteLine("4. Salir");
+Console.WriteLine("Seleccione una opción (1-4): ");
+int opcion = int.Parse(Console.ReadLine());
 
-namespace Ejercicio_2
+switch (opcion)
 {
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Menu de operaciones");
-            Console.WriteLine("1. Calcular el area de un circulo");
-            Console.WriteLine("2. Calcular el area de un cuadrado");
-            Console.WriteLine("3. Calcular el area de un triangulo");
-            Console.WriteLine("4. Salir");
-            Console.WriteLine("Seleccione una opcion (1-4)");
+    case 1:
+        Console.WriteLine("Área círculo = p x r²");
+        break;
 
-            int opcion = int.Parse(Console.ReadLine());
+    case 2:
+        Console.WriteLine("Área cuadrado = lado²");
+        break;
 
-            switch (opcion)
-            {
-                case 1:
-                    Console.WriteLine("Area de un circulo = p*r2");
-                    break;
+    case 3:
+        Console.WriteLine("Área triángulo = (base x altura) / 2");
+        break;
 
-                case 2:
-                    Console.WriteLine("Area de un cuadrado = lado2");
-                    break;
+    case 4:
+        Console.WriteLine("Saliendo del programa...");
+        break;
 
-                case 3:
-                    Console.WriteLine("Area de un triangulo = base*altura/2");
-                    break;
-
-                case 4:
-                    Console.WriteLine("Saliendo del menu");
-                    break;
-                default:
-                    Console.WriteLine("Opcion invalida. Intente del 1 al 4");
-                    break;
-
-
-            }
-        }
-    }
+    default:
+        Console.WriteLine("Opción invalida. Ingresa un número del 1 al 4.");
+        break;
 }
+
