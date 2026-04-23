@@ -42,6 +42,5 @@ else
     dese = "Deficiente";
 }
 
-// Salida
 Console.WriteLine($"Promedio de practicas: {Math.Round(prom_prac, 2)}");
 Console.WriteLine($"Promedio final: {Math.Round(prom_final, 2)} | Su desempeño fue {dese}");
